@@ -6,13 +6,13 @@ A [Java Time Complexity Test Library](https://github.com/TheBigSasha/RuntimeTest
 A [new sort of calculator](https://github.com/TheBigSasha/Unified_Calculator_Kit)
 ![UCKIT screenshot](https://wordpress.com/976435e3-53e7-4866-8d43-cacdc4d2745a)-->
 
-# 🎓 Computer Engineering @ McGill University
+## 🎓 Computer Engineering @ McGill University
 
-# 👔 [Teaching Computer Science @ McGill University](https://www.youtube.com/channel/UCs4uB9iY-6BZIRaR5VTxMUw)
+## 👔 [Teaching Computer Science @ McGill University](https://www.youtube.com/channel/UCs4uB9iY-6BZIRaR5VTxMUw)
 
-# 📷 [sashaphoto.ca](https://sashaphoto.ca/)
+## 📷 [sashaphoto.ca](https://sashaphoto.ca/)
 
-# 📫[Contact me!](mailto:alexander.aleshchenko@mail.mcgill.ca)
+## 📫[Contact me!](mailto:alexander.aleshchenko@mail.mcgill.ca)
 <!--
 **TheBigSasha/TheBigSasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
