@@ -5,7 +5,7 @@ A [Java Time Complexity Test Library](https://github.com/TheBigSasha/RuntimeTest
 A [new sort of calculator](https://github.com/TheBigSasha/Unified_Calculator_Kit)
 ![UCKIT screenshot](https://wordpress.com/976435e3-53e7-4866-8d43-cacdc4d2745a)-->
 ### 🎓 Studying Computer Engineering @ McGill University
-### 👔 [Teaching Computer Science @ McGill University](https://www.youtube.com/channel/UCs4uB9iY-6BZIRaR5VTxMUw)
+### 🏫 [Teaching Computer Science @ McGill University](https://www.youtube.com/channel/UCs4uB9iY-6BZIRaR5VTxMUw)
 ### 👔 [Software Engineering Intern @ Rocscience](https://www.rocscience.com/)
 ### 📷 [Doing photo and video work](https://sashaphoto.ca/)
 ### 📫 [Contact me!](mailto:alexander.aleshchenko@mail.mcgill.ca)
