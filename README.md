@@ -1,6 +1,6 @@
 # Hello there 👋 I'm Sasha
 ### Projects
-- 🎨 [bcsculpture.com](bcsculpture.com)
+- 🎨 [bcsculpture.com](https://bcsculpture.com)
 - 📚 [helpsched](https://github.com/TheBigSasha)
 - 📊 [Runtime Tester](https://github.com/TheBigSasha/RuntimeTester)
 - 🎯 [Algorithm Leaderboard](https://github.com/TheBigSasha/algorithm-leaderboard), [Leaderboard Server](https://github.com/TheBigSasha/leaderboard-server)
