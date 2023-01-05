@@ -5,6 +5,7 @@
 - 📊 [Runtime Tester](https://github.com/TheBigSasha/RuntimeTester)
 - 🎯 [Algorithm Leaderboard](https://github.com/TheBigSasha/algorithm-leaderboard), [Leaderboard Server](https://github.com/TheBigSasha/leaderboard-server)
 - 🏆 [BestofComp](https://github.com/TheBigSasha/bestofcomp)
+- 🗳️ [ezVote](https://github.com/TheBigSasha/ezvote)
 
 ### Work
 - 🎓 [McGill - School of Computer Science](https://www.youtube.com/channel/UCs4uB9iY-6BZIRaR5VTxMUw)
