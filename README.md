@@ -7,10 +7,8 @@
 - 🏆 [BestofComp](https://github.com/TheBigSasha/bestofcomp)
 - 🗳️ [ezVote](https://github.com/TheBigSasha/ezvote)
 
-### Work
+### Works
 - 🎓 [McGill - School of Computer Science](https://www.youtube.com/channel/UCs4uB9iY-6BZIRaR5VTxMUw)
-
-### Past Work
 - 📞 Meta - WhatsApp Business Onboarding
 - 📦 Amazon - AWS Simple Workflow
 - 🪨 Rocscience - Report Generator
