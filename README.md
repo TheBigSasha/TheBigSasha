@@ -2,7 +2,7 @@
 
 ### Works
 - 📷 Google - Creative Camera Team
-- 🌐 sashaphoto - photogrpahy & tools for photography 
+- 🌐[ sashaphoto](sashaisalex.com) - photogrpahy & tools for photography 
 - 🎓 [McGill - School of Computer Science](https://www.youtube.com/channel/UCs4uB9iY-6BZIRaR5VTxMUw)
 - 🎨 [bcsculpture.com](https://bcsculpture.com) - 3d art gallery on web + photogrammetry process
 - 📞 Meta - WhatsApp Business Onboarding
