@@ -8,6 +8,8 @@
 - 🗳️ [ezVote](https://github.com/TheBigSasha/ezvote)
 
 ### Works
+- 📷 Google - Creative Camera Team
+- 🌐 sashaphoto - photogrpahy & tools for photography 
 - 🎓 [McGill - School of Computer Science](https://www.youtube.com/channel/UCs4uB9iY-6BZIRaR5VTxMUw)
 - 📞 Meta - WhatsApp Business Onboarding
 - 📦 Amazon - AWS Simple Workflow
